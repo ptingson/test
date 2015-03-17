@@ -3,7 +3,11 @@
 	<link rel="stylesheet" type="text/css" href="test.css">
 </head>
 <body>
-	<h1>Hello World!</h1>
+<<<<<<< HEAD
+	<h1>Hello Philippines!! ^____^</h1>
+=======
+	<h1>Konnichiwa~</h1>
+>>>>>>> ab-2l_tingson
 	<img src="myimage.gif"/>
 	<p>Tingson, Patrixia Mae B. 2011-24321 CMSC 128 Ab-2L</p>
 </body>
